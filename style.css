@@ -181,7 +181,6 @@ footer{
 @media(min-width: 770px){
     .app{
         width: 100%;
-        max-width: 1440px;
     }
 
     .page {
